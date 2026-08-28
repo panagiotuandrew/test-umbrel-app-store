@@ -9,9 +9,6 @@ description: >-
 
 
   If you also want 24/7 local recording of your cameras, you can optionally install the Scrypted NVR plugin, which adds smart detections & timeline events, advanced AI object detection, and natural language AI search. 
-
-
-  Scrypted NVR starts at $40/year for 4 cameras and requires at least 1 TB of dedicated storage.
 developer: Scrypted
 website: https://scrypted.app
 dependencies: []
